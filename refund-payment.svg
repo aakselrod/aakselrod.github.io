@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="240"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="refund-payment.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.175"
+     inkscape:cx="142.12093"
+     inkscape:cy="94.699867"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-global="false"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="724"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2992"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-2917.0866)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.95568937"
+       id="rect2994"
+       width="139.04431"
+       height="179.04431"
+       x="90.477852"
+       y="2947.5645" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="140.91628"
+       y="44.030407"
+       id="text2996"
+       sodipodi:linespacing="125%"
+       transform="translate(0,2917.0866)"><tspan
+         sodipodi:role="line"
+         id="tspan2998"
+         x="140.91628"
+         y="44.030407" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="159.85059"
+       y="2958.0066"
+       id="text3000"
+       sodipodi:linespacing="110%"><tspan
+         sodipodi:role="line"
+         id="tspan3093"
+         x="159.85059"
+         y="2958.0066">Refund Transaction</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3095"
+         x="159.85059"
+         y="2969.0066">After Payment</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.07654119"
+       id="rect3800"
+       width="48.923458"
+       height="38.923458"
+       x="105.53827"
+       y="2972.6248" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.07654119"
+       id="rect3800-8-3"
+       width="48.923458"
+       height="38.923458"
+       x="170.53827"
+       y="2972.6248" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.07654119"
+       id="rect3800-8-3-5"
+       width="48.923458"
+       height="38.923458"
+       x="170.53827"
+       y="3072.6248" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.3234272px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="144.44275"
+       y="2684.8743"
+       id="text3892"
+       sodipodi:linespacing="125%"
+       transform="scale(0.89980798,1.1113482)"><tspan
+         sodipodi:role="line"
+         id="tspan3117"
+         x="144.44275"
+         y="2684.8743">In</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3119"
+         x="144.44275"
+         y="2695.2786">99.9 mBTC</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3121"
+         x="144.44275"
+         y="2705.6829">Version 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.15768433px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="238.30804"
+       y="2446.4678"
+       id="text3892-9-5"
+       sodipodi:linespacing="125%"
+       transform="scale(0.81835754,1.2219598)"><tspan
+         sodipodi:role="line"
+         id="tspan3097"
+         x="238.30804"
+         y="2446.4678">Out</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3099"
+         x="238.30804"
+         y="2456.6648">48.89 mBTC</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3101"
+         x="238.30804"
+         y="2466.8621" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.67138863px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="225.60217"
+       y="2669.7834"
+       id="text3892-9-5-2"
+       sodipodi:linespacing="125%"
+       transform="scale(0.86417494,1.1571731)"><tspan
+         sodipodi:role="line"
+         id="tspan3109"
+         x="225.60217"
+         y="2669.7834">Fee</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3111"
+         x="225.60217"
+         y="2680.6228">0.11 mBTC</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3113"
+         x="225.60217"
+         y="2691.4619" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.53364873px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 105.3414,2992.3198 c -48.682576,0 -48.682576,0 -48.682576,0"
+       id="path4028"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.53364873px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 268.47922,2992.3198 c -48.68258,0 -48.68258,0 -48.68258,0"
+       id="path4028-72"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.00000002px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="104.18802"
+       y="3451.8574"
+       id="text3021"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1056614,0.90443602)"><tspan
+         sodipodi:role="line"
+         id="tspan3153">nLockТime: 399,995</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="234.9375"
+       y="2989.9734"
+       id="text3027"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3029"
+         x="234.9375"
+         y="2989.9734">Alice</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="234.21484"
+       y="3039.9734"
+       id="text3027-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3052"
+         x="234.21484"
+         y="3039.9734">Bob</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="86.421875"
+       y="2989.9734"
+       id="text3027-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3069"
+         x="86.421875"
+         y="2989.9734">2-of-2:</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3071"
+         x="86.421875"
+         y="2999.9734">Alice + Bob</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.07654119"
+       id="rect3800-8-3-9"
+       width="48.923458"
+       height="38.923458"
+       x="170.53827"
+       y="3022.6248" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.65195847px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="224.57439"
+       y="2638.0959"
+       id="text3892-9-5-7"
+       sodipodi:linespacing="125%"
+       transform="scale(0.86794179,1.152151)"><tspan
+         sodipodi:role="line"
+         id="tspan3103"
+         x="224.57439"
+         y="2638.0959">Out</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3105"
+         x="224.57439"
+         y="2648.9109">50.9 mBTC</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3107"
+         x="224.57439"
+         y="2659.7258" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.53364873px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 268.47923,3042.32 c -48.68258,0 -48.68258,0 -48.68258,0"
+       id="path4028-72-9"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
