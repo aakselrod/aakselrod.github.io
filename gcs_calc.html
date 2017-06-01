@@ -1,0 +1,79 @@
+<!-- TODO - Make this not suck -->
+<html>
+<head>
+        <title>GCS Filter Size Calculator</title>
+</head>
+<body>
+        <form>
+                <table>
+                        <tr>
+                                <th>Assumption</th>
+                                <th>Assumed Value</th>
+                        </tr>
+                        <tr>
+                                <td>Block Size</td>
+                                <td><input id="blockSize" value="1887436"/></td>
+                        </tr>
+                        <tr>
+                                <td>TX Size</td>
+                                <td><input id="txSize" value="373"/></td>
+                        </tr>
+                        <tr>
+                                <td>Filter entries per TX</td>
+                                <td><input id="txEntries" value="4"/></td>
+                        </tr>
+                        <tr>
+                                <td>Wallet Entries</td>
+                                <td><input id="walletEntries" value="50"/></td>
+                        </tr>
+                        <tr>
+                                <td></td>
+                                <td><input type="button" value="Calculate" onclick="onBtnClick()"/></td>
+                        </tr>
+                </table>
+                <table id="optimized"/>
+        </form>
+</body>
+<script>
+function onBtnClick() {
+        tbl = document.getElementById("optimized");
+        lastbbw2 = 1008 * document.getElementById("blockSize").value; // Track weekly bandwidth usage
+        lastbbw = lastbbw2;
+        lastfbw2 = lastbbw2;
+        lastfbw = lastbbw2;
+        for (i = 12; i <= 32; i++) {
+                fpRate = 1 - Math.pow(1-1/Math.pow(2,i), document.getElementById("walletEntries").value);
+                bbw = Math.round(fpRate * 1008 * document.getElementById("blockSize").value);
+                fbw = 1008 * (4 + Math.round(                           // uint32 for N filter entries
+                                (1.5 + i) *                     // Bits per filter entry
+                                document.getElementById("txEntries").value * // Number of entries for the block
+                                document.getElementById("blockSize").value /
+                                document.getElementById("txSize").value / 8 // Convert into bytes
+                ));
+                if ((bbw + fbw) > (lastbbw + lastfbw)) {
+                        tbl.innerHTML = "<tr>\
+                                <th>Number of bits used for collision space</th>\
+                                <th>Bandwidth used by block downloads due to false positives</th>\
+                                <th>Bandwidth used by filter downloads</th>\
+                                <th>Total bandwidth used</th>\
+                        </tr>"
+                        tbl.innerHTML += "<tr><td>" + (i-2) + "</td><td>" +
+                                lastbbw2 + "</td><td>" + lastfbw2 + "</td><td>" +
+                                (lastbbw2 + lastfbw2) + "</td></tr>";
+                        tbl.innerHTML += "<tr><td><b>" + (i-1) +
+                                "</b></td><td><b>" + lastbbw + "</b></td><td><b>" +
+                                lastfbw + "</b></td><td><b>" +
+                                (lastbbw + lastfbw) + "</b></td></tr>";
+                        tbl.innerHTML += "<tr><td>" + i + "</td><td>" +
+                                bbw + "</td><td>" + fbw + "</td><td>" +
+                                (bbw + fbw) + "</td></tr>";
+                        break;
+                }
+                lastbbw2 = lastbbw;
+                lastfbw2 = lastfbw;
+                lastbbw = bbw;
+                lastfbw = fbw;
+        }
+}
+</script>
+</html>
